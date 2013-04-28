@@ -11,6 +11,6 @@ The 608_repraper_spindle fits nice, only note is that the material-saving holes 
 not on a perfectly round path, this will show when the perimiters are printed. It does nothing to hurt the function of 
 the part.
 
-Both parts are in heights of even mm. Any layer height that multiplies evenly into 1mm will work,
+My parts are designed for .25mm layer heights.
 
 *for the spindle the necessary bridge is .25mm thick, so works best with .25mm slices.

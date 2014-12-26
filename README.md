@@ -2,7 +2,7 @@ solid_objects
 =============
 
 Solid object and CAD files.
-Authored by dave@xtechgeek.com unless otherwise specified. 
+Authored by xclusive585@gmail.com unless otherwise specified. 
 
 
 The Ard_Mega_tray file is not a perfect fit, but is very very close, maybe a tiny bit loose.
